@@ -1,0 +1,12 @@
+.panel-heading a, .panel-heading a:hover{
+    color:#fff;
+    outline: none;
+}
+
+#main{
+    margin-top: 55px;
+}
+
+.recaptcha{
+    margin-left: 20%;
+}
